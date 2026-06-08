@@ -51,3 +51,6 @@ Foi desenvolvida uma interface interativa usando Streamlit.
 - Ricardo Queiroz (RM94241)
 - Jhonatan Curci (RM94188)
 - Felipe Hideki (RM98323) 
+
+## link do Streamlit
+https://applied-computer-vision-global-solution-2026-1.streamlit.app/
