@@ -1,0 +1,15 @@
+# Ignorar o dataset gigantesco (Impede o GitHub de travar)
+data/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar pastas virtuais (caso você crie o venv dentro da pasta no futuro)
+env/
+venv/
+.env
+
+# Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db
